@@ -1,0 +1,7 @@
+.front {
+    display: flex;
+}
+
+nav {
+    border: solid, 2px, black;
+}
